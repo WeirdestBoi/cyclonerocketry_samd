@@ -13,10 +13,10 @@
           "architecture": "samd",
           "version": "0.1.0",
           "category": "Contributed",
-          "url": "https://github.com/WeirdestBoi/cyclonerocketry_samd/blob/57218fefdb29bbbd761a0fea4f3448902e30b7b9/Cyclone_SAMD.zip",
+          "url": "https://github.com/WeirdestBoi/cyclonerocketry_samd/blob/00f3d5921e2f26163818961a3b330564cd669eb5/Cyclone_SAMD.zip",
           "archiveFileName": "Cyclone_SAMD.zip",
-          "checksum": "83e345df8dcd5f4f9963f2bff375acf8",
-          "size": "1332652",
+          "checksum": "d54e733688a81a33ef778b29d694c639",
+          "size": "4905619",
           "boards": [
             {
               "name": "Trajectory R4"
