@@ -2,21 +2,64 @@
   "packages":
   [
     {
-      "name": "cyclone",
-      "maintainer": "Cyclone Rocketry",
-      "websiteURL": "none",
-      "email" : "none",
+      "name": "robohat",
+      "maintainer": "Robotics Masters",
+      "websiteURL": "https://roboticsmasters.co",
+      "email" : "techsupport@roboticsmasters.co",
       "platforms":
       [
         {
-          "name": "Cyclone Boards",
+          "name": "Trajectory Family",
           "architecture": "samd",
           "version": "0.1.0",
           "category": "Contributed",
-          "url": "https://github.com/WeirdestBoi/cyclonerocketry_samd/blob/00f3d5921e2f26163818961a3b330564cd669eb5/Cyclone_SAMD.zip",
-          "archiveFileName": "Cyclone_SAMD.zip",
-          "checksum": "db0fb0e4b73a4f980a39dd2e5e3026eac71120430a518ff024639fdb36be5778",
-          "size": "133377",
+          "url": "https://github.com/weirdestboi/cyclonerocketry_samd/blob/main/Cyclone_SAMD.zip",
+          "archiveFileName": "RoboHat-0.0.24.zip",
+          "checksum": "SHA-256:db0fb0e4b73a4f980a39dd2e5e3026eac71120430a518ff024639fdb36be5778",
+          "size": "3661545",
+          "boards": [
+            {
+              "name": "Trajectory R4"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },
+        {
+          "name": "Trajectory Family",
+          "architecture": "samd",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "url": "https://github.com/weirdestboi/cyclonerocketry_samd/blob/main/Cyclone_SAMD.zip",
+          "archiveFileName": "RoboHat-0.0.24.zip",
+          "checksum": "SHA-256:db0fb0e4b73a4f980a39dd2e5e3026eac71120430a518ff024639fdb36be5778",
+          "size": "3661545",
           "boards": [
             {
               "name": "Trajectory R4"
