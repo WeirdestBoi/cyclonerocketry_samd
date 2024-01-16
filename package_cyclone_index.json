@@ -16,7 +16,7 @@
           "url": "https://github.com/WeirdestBoi/cyclonerocketry_samd/blob/57218fefdb29bbbd761a0fea4f3448902e30b7b9/Cyclone_SAMD.zip",
           "archiveFileName": "Cyclone_SAMD.zip",
           "checksum": "83e345df8dcd5f4f9963f2bff375acf8",
-          "size": "4.935.680",
+          "size": "133248",
           "boards": [
             {
               "name": "Trajectory R4"
@@ -59,7 +59,7 @@
           "url": "https://github.com/WeirdestBoi/cyclonerocketry_samd/blob/57218fefdb29bbbd761a0fea4f3448902e30b7b9/Cyclone_SAMD.zip",
           "archiveFileName": "Cyclone_SAMD.zip",
           "checksum": "83e345df8dcd5f4f9963f2bff375acf8",
-          "size": "4935680",
+          "size": "133248",
           "boards": [
             {
               "name": "Trajectory R4"
