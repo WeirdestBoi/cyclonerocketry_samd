@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "0.1.0",
           "category": "Contributed",
-          "url": "https://github.com/weirdestboi/cyclonerocketry_samd/blob/main/zips/Cyclone_SAMD.zip",
+          "url": "https://github.com/weirdestboi/cyclonerocketry_samd/blob/main/zips/Cyclone_SAMD.zip?raw=true",
           "archiveFileName": "Cyclone_SAMD.zip",
           "checksum": "SHA-256:db0fb0e4b73a4f980a39dd2e5e3026eac71120430a518ff024639fdb36be5778",
           "size": "132937",
