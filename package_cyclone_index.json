@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/weirdestboi/cyclonerocketry_samd/blob/main/zips/Cyclone_SAMD.zip?raw=true",
           "archiveFileName": "Cyclone_SAMD.zip",
-          "checksum": "SHA-256:e93f5c86acf94da1436e7e4d77064866e2efc57f3a4b4d92052f5ff3aa9f2cde",
-          "size": "4945077",
+          "checksum": "SHA-256:e1049dd56e3f521f97e50902f7d4f07831918dc10befa0c19bc5068a73a5ca36",
+          "size": "4918039",
           "boards": [
             {
               "name": "Trajectory R4"
